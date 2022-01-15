@@ -121,13 +121,14 @@
 -------------------------------------------------------------------------------------------
 ##  3. Buat laporan, link github dan Buat presentasi dalam bentuk video
        Untuk laporan saya sudah buat menggunakan file PDF.
-       -------------------------------------------------------------------------------------------
-       Untuk link github sudah saya buat dengan adanya github ini        : 
-       https://github.com/ikhsanmaulana15/UAS_BasisDataOracle
        
-       -------------------------------------------------------------------------------------------
-       Untuk video presentasi sistem sudah saya buat dan upload Youtube. : 
-       https://youtu.be/4Ip_OIYNQcQ
+-------------------------------------------------------------------------------------------
+Untuk link github sudah saya buat dengan adanya github ini        : 
+ https://github.com/ikhsanmaulana15/UAS_BasisDataOracle
+       
+-------------------------------------------------------------------------------------------
+Untuk video presentasi sistem sudah saya buat dan upload Youtube. : 
+ https://youtu.be/4Ip_OIYNQcQ
        
 -------------------------------------------------------------------------------------------            
 ##  4. Lampirkan link youtube, dan github di laporan.
