@@ -34,7 +34,7 @@
        Setiap halaman master data terdapat feature Create, Update, dan Delete, serta saya tambahkan Search.
        Berikut tampilannya :
        Tampilan Master Petugas
-   <img src= "user-images.githubusercontent.com/45529723/149626634-ddc7170a-929d-4a0f-b862-ba6998ad6e57.PNG" />
+   <img src= "https://user-images.githubusercontent.com/45529723/149628403-bbe30ab4-7b8f-435e-b667-449beac1fb77.PNG" />
        
        Tampilan Master Pelanggan
    <img src= "https://user-images.githubusercontent.com/45529723/149626636-140503e6-6613-4899-ab34-08c7bf12fa52.PNG" />
