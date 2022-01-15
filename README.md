@@ -3,11 +3,13 @@
    Pada kesempatan kali ini saya akan menjawab beberapa poin atau soal berikut ini :
    1. Lanjutkan dari study kasus yang sudah diambil ketika UTS,
    2. Impelementasikan study kasus yang telah dipilih dengan database Oracle ke dalam sebuah sistem minimal ada :
-      Ada halaman utama / dashboard
-      Ada halaman master data dengan insert update dan delete
-      Ada Implementasi view dan trigger
-      Ada menu tarnsaksi dan laporan (cetak pdf / excel)
-      Login logout (opsional)
+   
+      - Ada halaman utama / dashboard
+      - Ada halaman master data dengan insert update dan delete
+      - Ada Implementasi view dan trigger
+      - Ada menu tarnsaksi dan laporan (cetak pdf / excel)
+      - Login logout (opsional)
+      
    4. Buat laporan, link github dan Buat presentasi dalam bentuk video, upload ke youtube.
    5. Lampirkan link youtube, dan github di laporan.
       
