@@ -2,7 +2,7 @@
 
    Pada kesempatan kali ini saya akan menjawab beberapa poin atau soal berikut ini :
    1. Lanjutkan dari study kasus yang sudah diambil ketika UTS,
-   2.	Impelementasikan study kasus yang telah dipilih dengan database Oracle ke dalam sebuah sistem minimal ada :
+   2. Impelementasikan study kasus yang telah dipilih dengan database Oracle ke dalam sebuah sistem minimal ada :
       a.	Ada halaman utama / dashboard
       b.	Ada halaman master data dengan insert update dan delete
       c.	Ada Implementasi view dan trigger
